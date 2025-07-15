@@ -55,7 +55,7 @@ This project trains a Deep Convolutional GAN (DCGAN) on the MNIST dataset to gen
 ## 📷 Sample Outputs
 
 Below are example generated images saved during training:
-(Digit generator.png)
+![Preview](Digit-generator.png)
 ![Epoch 1](outputs/epoch_1.png)  
 ![Epoch 10](outputs/epoch_10.png)  
 
