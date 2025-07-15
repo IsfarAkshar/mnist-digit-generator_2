@@ -1,7 +1,7 @@
 
 # 🧠 MNIST Digit Generator (DCGAN)
 
-This project trains a Deep Convolutional GAN (DCGAN) on the MNIST dataset to generate realistic handwritten digits.
+This project trains a Deep Convolutional GAN (DCGAN) on the MNIST dataset to generate realistic handwritten digits 5 times. The webpage is published and you can check it out here https://mnist-digit-generator2-fxfpjhvvgceejz2f7jcrsk.streamlit.app/ 
 
 ---
 
